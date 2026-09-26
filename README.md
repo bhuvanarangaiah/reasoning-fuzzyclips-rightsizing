@@ -4,8 +4,8 @@ Sistema experto borroso (FuzzyCLIPS) que recomienda *rightsizing* de instancias 
 
 ## Archivos
 
-- `BC_rightsizing.clp` — base de conocimiento (plantillas borrosas + reglas R1–R5)
-- `BH_rightsizing.clp` — base de hechos (caso de prueba CPU=60 %, Memoria=55 %)
+- `BC_rightsizing.clp` - base de conocimiento (plantillas borrosas + reglas R1–R5)
+- `BH_rightsizing.clp` - base de hechos (caso de prueba CPU=60 %, Memoria=55 %)
 
 ## Ejecución (FuzzyCLIPS)
 
